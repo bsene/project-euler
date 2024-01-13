@@ -4,7 +4,7 @@ import Prelude
 
 import Data.Foldable (sum)
 import Effect (Effect)
-import Main (multiples)
+import Ex1 (multiples)
 import Test.Unit (suite, test)
 import Test.Unit.Assert (shouldEqual)
 import Test.Unit.Main (runTest)
