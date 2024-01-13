@@ -1,0 +1,14 @@
+package:
+  name: tic-tac-toe-in-purescript
+  dependencies:
+    - console
+    - effect
+    - prelude
+    - test-unit
+  test:
+    main: Test.Main
+    dependencies: []
+workspace:
+  package_set:
+    registry: 48.0.0
+  extra_packages: {}
